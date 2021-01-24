@@ -1,4 +1,4 @@
-# Socket-Redis Template :rocket:
+# API Practice :rocket:
 
 ## Purpose :dark_sunglasses:
 
@@ -6,25 +6,15 @@ The purpose of this repository is to play with different APIs; made with JQuery.
 
 ### How it works :open_book:
 
-![Image](https://www.dropbox.com/sh/w77uz5cu6u8gurw/AADTfA0MqyWyiNsGMTB09caRa?raw=1)
 ![Image](https://www.dropbox.com/s/1mqbhpsbyuifhv2/Screen%20Shot%202021-01-24%20at%2013.03.42.png?raw=1)
 ![Image](https://www.dropbox.com/s/zs05hzjgraqfo1i/Screen%20Shot%202021-01-24%20at%2013.03.44.png?raw=1)
 ![Image](https://www.dropbox.com/s/7jxs4ilstoahwzq/Screen%20Shot%202021-01-24%20at%2013.03.47.png?raw=1)
 ![Image](https://www.dropbox.com/s/fgvoi8nrtyqa25e/Screen%20Shot%202021-01-24%20at%2013.03.50.png?raw=1)
 
-### Daily Stand Up :hourglass:
+### What is one thing that I learned from doing this project? :books:
 
-## Issues and Resolutions :flashlight:
-
-**ERROR**: :gear:
-**RESOLUTION**: :key:
-
-| Issue                | Where it occurs | Possible solution | Actual solution |
-| -------------------- | :-------------: | :---------------: | :-------------: |
-| Creating a checklist |        H        |       2hrs        |     2.5hrs      |
-
-#### What is one thing that I learned from doing this project? :books:
-
+- Look at different examples first
+- Identifying good APIs can be difficult
 -
 
 #### Credits :recycle:
